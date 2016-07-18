@@ -1,0 +1,31 @@
+Quiz
+
+1. Mail functions can be defined using  
+a) Active mailer  
+b) Action mailer  --correct
+c) Active email  
+d) None 
+
+2. Mailer function need…….. Settings  
+a) Pop3  
+b) smtp  --correct
+c) mail  
+d) all the above 
+
+3. Mailer can be called using  
+a) .mail method  --correct
+b) .deliver method  
+c) .send method  
+d) all the above 
+
+4. How will you create mailer  
+a) rails c mailer  
+b) rails s mailer  
+c) rails g mailer  --correct
+d) None 
+
+5.Gmail SMTP settings can be integrated with action mailer 
+a) True --correct
+b) False 
+c) Often 
+d) None  
